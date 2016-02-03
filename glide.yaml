@@ -1,0 +1,4 @@
+package: github.com/Jackong/cors-srv
+import:
+- package: github.com/rs/cors
+- package: github.com/gin-gonic/gin
